@@ -14,7 +14,7 @@ const game = new Phaser.Game({
     autoCenter: Phaser.Scale.CENTER_BOTH,
     mode: Phaser.Scale.HEIGHT_CONTROLS_WIDTH,
   },
-  backgroundColor: '#000000',
+ backgroundColor: '#2c003e', // Púrpura oscuro // Negro puro // Púrpura oscuro// Azul medianoche/ Gris oscuro con un toque azulado
   physics: {
     default: 'arcade',
     arcade: {
