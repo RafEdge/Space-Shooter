@@ -8,7 +8,7 @@ Un juego de disparos en el espacio desarrollado con Phaser.
 - Rafael Narváez (30.039.129)
 
 ## Instalación
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/Space-Shooter.git`
+1. Clona este repositorio: `git clone https://github.com/RafEdge/Space-Shooter`
 2. Abre el archivo `index.html` en tu navegador.
 
 ## Tecnologías Utilizadas
