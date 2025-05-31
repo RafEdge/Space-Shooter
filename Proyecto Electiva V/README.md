@@ -3,8 +3,8 @@
 ## Descripción
 Un juego de disparos en el espacio desarrollado con Phaser.
 
-## Autores
-- Luis Ayala (30.703.478)
+## Autor
+
 - Rafael Narváez (30.039.129)
 
 ## Instalación
